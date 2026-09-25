@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1060" height="240" viewBox="0 0 1060 240" role="img" aria-labelledby="title desc">
+  <title id="title">booem3d</title>
+  <desc id="desc">Üç yüzlü küçük mint işaret ve özgün geometrik küçük harflerle booem3d stüdyo logosu.</desc>
+  <g transform="translate(24 36)">
+    <path fill="#9bd8cc" d="M72 4 140 43 72 82 4 43Z"/>
+    <path fill="#6cafad" d="M4 53 66 89 66 162 4 126Z"/>
+    <path fill="#4d898e" d="M78 89 140 53 140 126 78 162Z"/>
+  </g>
+  <g fill="none" stroke="#eef5f5" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" transform="translate(225 25)">
+    <path d="M27 33V145 M27 108C27 57 102 57 102 108S27 158 27 108"/>
+    <ellipse cx="166" cy="108" rx="37" ry="38"/>
+    <ellipse cx="267" cy="108" rx="37" ry="38"/>
+    <path d="M332 108H405C405 56 331 58 331 108C331 151 376 156 399 137"/>
+    <path d="M439 145V77 M439 98C439 59 483 59 483 98V145 M483 98C483 59 527 59 527 98V145"/>
+    <path d="M563 78C596 58 627 73 627 94C627 110 603 111 591 111 M591 111C612 111 634 116 627 134C619 157 584 149 563 139"/>
+    <path d="M731 33V145 M731 108C731 57 657 57 657 108S731 158 731 108"/>
+  </g>
+</svg>
